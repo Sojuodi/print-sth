@@ -1,2 +1,4 @@
 # print-sth
-this program just print something.
+# this program only print something.
+print ("Hello World!")
+# The end
